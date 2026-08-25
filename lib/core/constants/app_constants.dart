@@ -24,7 +24,7 @@ class AppConstants {
   // IMPORTANT:
   // Replace the URL below with your actual LinkedIn profile.
   static const String linkedinUrl =
-      'https://www.linkedin.com/in/your-linkedin-username/';
+      'https://www.linkedin.com/in/anoshaali/';
 
   // ============================================================
   // RESUME / CV
